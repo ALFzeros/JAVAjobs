@@ -1,5 +1,5 @@
 # JAVAjobs
 show  java skills   
 content:
-original exam june my firt year java
+original exam june of my first year java course
 final proyect java web
